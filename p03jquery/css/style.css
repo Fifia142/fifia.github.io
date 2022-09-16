@@ -1,7 +1,7 @@
 td{text-align: center;}
 
 
-body {background-image: url(foto1.jpg);}
+body {background-color: black;}
 
 th{background-color: white;}
 
@@ -35,7 +35,7 @@ td {
 }
 
 td:hover {
-    background-color: blue;
+    background-color: red;
     cursor: pointer;
     transform:scale(1);
 
